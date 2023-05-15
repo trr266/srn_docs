@@ -52,7 +52,7 @@ if __name__ == "__main__":
     print("Searching comapny with a name containing 'Allianz'")
     matches = [c for c in companies if 'Allianz' in c['name']]
     print(
-        f"Found {len(matches)} matches. " +
+        f"Found {len(matches)} match(es). " +
         "Retrieving the documents for the first match."
     )
     docs = [d for d in documents if d['company_id'] == matches[0]['id']] 
@@ -60,7 +60,7 @@ if __name__ == "__main__":
     print(
         f"Found {len(docs)} documents. " +
         "Retrieving the first document from the list " +
-        f"and storing as '{FPATH}'."
+        f"and storing it as '{FPATH}'."
     )
     download_document(docs[0]['id'], FPATH)
     print("done!")
