@@ -79,22 +79,22 @@ reach out to Victor Wagner.
 
 ### To do/discuss
 
-- [ ]: Separate the publicly accessible API endpoints from an internal SRN API?
-- [ ]: Do we need to use API keys (preregistration required)?
-- [ ]: Include in metadata documents: contributer, document_format
-- [ ]: Include in metadata firms: maintainer, LEI, main URL and IR URL?
-- [ ]: Standardize firm names a little bit better (legal form?)
-- [ ]: What's wrong with stale downloads (e.g. BMW)
-- [ ]: The HTML files are mostly not really usable (no following through on links, 404)
-- [ ]: Create versioned data structure that allows reproducible downloads via timestamp
+- [ ] Separate the publicly accessible API endpoints from an internal SRN API?
+- [ ] Do we need to use API keys (preregistration required)?
+- [ ] Include in metadata documents: contributer, document_format
+- [ ] Include in metadata firms: maintainer, LEI, main URL and IR URL?
+- [ ] Standardize firm names a little bit better (legal form?)
+- [ ] What's wrong with stale downloads (e.g. BMW)
+- [ ] The HTML files are mostly not really usable (no following through on links, 404)
+- [ ] Create versioned data structure that allows reproducible downloads via timestamp
 
 
 ### Ideas for later
 
-- [ ]: Package this into python and R packages
-- [ ]: Provice curate tools for pre-processing the data
-- [ ]: Develop API/Webforms for uploading contributed data and metadata
-- [ ]: Develop tools for data maintainers (web scrapers with alarm feature)
+- [ ] Package this into python and R packages
+- [ ] Provice curate tools for pre-processing the data
+- [ ] Develop API/Webforms for uploading contributed data and metadata
+- [ ] Develop tools for data maintainers (web scrapers with alarm feature)
 
 
 
