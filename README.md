@@ -48,9 +48,9 @@ to handle over the next weeks. Stay tuned!
 
 Thank you for asking! We very much appreciate you giving credit to our data 
 collection efforts. We will be using a concept DOI and verioned DOIs 
-from Zenodo in the future. Currently please cite the data as follows:
+from Zenodo in the future. Currently, please cite the data as follows:
 
-Minuth, Bianca; Piscella, Arianna, and Wagner, Victor (2023): SRN Document 
+Minuth, Bianca, Arianna Piscella, and Victor Wagner (2023): SRN Document 
 Data, https://github.com/trr266/srn_docs.
 
 
