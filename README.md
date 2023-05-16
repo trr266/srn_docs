@@ -25,7 +25,7 @@ information. This includes but is not limited to annual and sustainability
 reports. For some firms it also includes andditional reports like governance 
 reports or additional info. All materials have been collected from the firm 
 websites and are provided as is. Neither the team of the SRN nor the maintainers 
-of this data repository claim any ownership of or legal rights to own the 
+of this data repository claim any ownership of or legal rights to the 
 provided data. 
 
 <dynamic table report types>
@@ -57,16 +57,16 @@ Data, https://github.com/trr266/srn_docs.
 ### How can I post-process the data?
 
 What a great question! We really hope that this repo will be used to discuss 
-and exchange data quality issues as well as methods to use the data in research
-project. Again, as a first teaser, take a look at 
+data quality issues as well as methods to use the data in research
+projects. Again, as a first teaser, take a look at 
 `extraxt_text_from_docs.py` that features a method to extract page-wise 
 text data from our documents.
 
 
-### I think I found something odd in the data. Whom should I contact.
+### I think I found something odd in the data. Whom should I contact?
 
-Thank you! Please consider open an issue on GitHub, mentioning the document id 
-and describing the issue that you encounter.
+Thank you! Please open an issue on GitHub, mentioning the document id 
+and describing the issue that you encountered.
 
 
 ### This is great! Can I help?
