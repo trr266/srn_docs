@@ -1,10 +1,10 @@
 ## Sustainability Reporting Navigator Document Database
 
-This repository features the dcoument data and API of the 
+This repository features the document data and API of the 
 [Sustainabity Reporting Navigator](https://www.sustainabilityreportingnavigator.com).
 Starting from the data collection efforts by the SRN team as well as 
 inpedendent data collection by Bianca Minuth and Arianna Piscella, 
-our objective is to develop it into a collaborative data platform that 
+our objective is to develop this repository into a collaborative data platform that 
 provides extensive coverage of sustainability-related documents published 
 by European publicly-listed firms.
 
@@ -22,8 +22,8 @@ the table below.
 
 We try to collect all documents that contain relevant sustainability 
 information. This includes but is not limited to annual and sustainability
-reports. For some firms it also includes andditional reports like governance 
-reports or additional info. All materials have been collected from the firm 
+reports. For some firms it also includes additional reports like governance 
+reports or integrated reports. All materials have been collected from the firm 
 websites and are provided as is. Neither the team of the SRN nor the maintainers 
 of this data repository claim any ownership of or legal rights to the 
 provided data. 
@@ -31,15 +31,9 @@ provided data.
 <dynamic table report types>
 
 
-### Document formats
-
-Most of the documents are stored as PDFs but some are scraped HTML files or
-other Formats (e.g., Excel or Word).
-
-
 ### How can I download the data?
 
-We provide an easy to use API for data download. See the file `srn_docs_api.py` 
+We provide an easy to use API for data download. To download data, you have to register at [SRN Inside](https://sustainabilityreportingnavigator.com/#/inside) to access your token. See the file `srn_docs_api.py` 
 in this repo for pointers. We are working on making this process even easier 
 to handle over the next weeks. Stay tuned!
 
@@ -47,7 +41,7 @@ to handle over the next weeks. Stay tuned!
 ### How do I cite the data?
 
 Thank you for asking! We very much appreciate you giving credit to our data 
-collection efforts. We will be using a concept DOI and verioned DOIs 
+collection efforts. We will be using a concept DOI and versioned DOIs 
 from Zenodo in the future. Currently, please cite the data as follows:
 
 Minuth, Bianca, Arianna Piscella, and Victor Wagner (2023): SRN Document 
@@ -74,7 +68,7 @@ and describing the issue that you encountered.
 Thank you and yes, of course! We would be very happy about people that 
 provide historical data and/or are willing to maintain our data going 
 forward on a country or index basis. So, if you would like to help, please
-reach out to Victor Wagner. 
+reach out to Victor Wagner.
 
 
 ### To do/discuss
