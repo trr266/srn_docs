@@ -102,7 +102,7 @@ Thank you for asking! We very much appreciate you giving credit to our data
 collection efforts. We will be using a concept DOI and versioned DOIs 
 from Zenodo in the future. Currently, please cite the data as follows:
 
-Minuth, Bianca, Arianna Piscella, Charlotte-Louise Donau, Inga Meringdal and Victor Wagner (2023): SRN Document 
+Donau, Charlotte-Louise, Fikir Worku Edossa, Joachim Gassen, Gaia Melloni, Inga Meringdal, Bianca Minuth, Arianna Piscella, Paul Pronobis and Victor Wagner (2023): SRN Document 
 Database, https://github.com/trr266/srn_docs.
 
 ### How can I post-process the data?
