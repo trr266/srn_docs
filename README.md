@@ -33,7 +33,7 @@ provided data.
 
 ### How can I download the data?
 
-We provide an easy to use API for data download. To download data, you have to register at [SRN Inside](https://sustainabilityreportingnavigator.com/#/inside) to access your token. See the file `srn_docs_api.py` 
+We provide an easy to use API for data download. See the file `srn_docs_api.py` 
 in this repo for pointers. We are working on making this process even easier 
 to handle over the next weeks. Stay tuned!
 
@@ -44,8 +44,8 @@ Thank you for asking! We very much appreciate you giving credit to our data
 collection efforts. We will be using a concept DOI and versioned DOIs 
 from Zenodo in the future. Currently, please cite the data as follows:
 
-Minuth, Bianca, Arianna Piscella, and Victor Wagner (2023): SRN Document 
-Data, https://github.com/trr266/srn_docs.
+Minuth, Bianca, Arianna Piscella, Charlotte-Louise Donau, Inga Meringdal and Victor Wagner (2023): SRN Document 
+Database, https://github.com/trr266/srn_docs.
 
 
 ### How can I post-process the data?
