@@ -46,9 +46,7 @@ df, table_1, table_2 = prep_table()
 
 This repository features the document data and API of the 
 [Sustainabity Reporting Navigator](https://www.sustainabilityreportingnavigator.com).
-Starting from the data collection efforts by the SRN team as well as 
-inpedendent data collection by Bianca Minuth and Arianna Piscella, 
-our objective is to develop this repository into a collaborative data platform that 
+The large bulk of the initial reports in our database comes from the generous contribution by Bianca Minuth, Arianna Piscella, Gaia Melloni and Paul Pronobis and is supplemented by the ongoing data collection of the SRN team. Our objective is to develop this repository into a collaborative data platform that 
 provides extensive coverage of sustainability-related documents published 
 by European publicly-listed firms.
 
@@ -102,8 +100,7 @@ Thank you for asking! We very much appreciate you giving credit to our data
 collection efforts. We will be using a concept DOI and versioned DOIs 
 from Zenodo in the future. Currently, please cite the data as follows:
 
-Donau, Charlotte-Louise, Fikir Worku Edossa, Joachim Gassen, Gaia Melloni, Inga Meringdal, Bianca Minuth, Arianna Piscella, Paul Pronobis and Victor Wagner (2023): SRN Document 
-Database, https://github.com/trr266/srn_docs.
+Donau, Charlotte-Louise, Fikir Worku Edossa, Joachim Gassen, Gaia Melloni, Inga Meringdal, Bianca Minuth, Arianna Piscella, Paul Pronobis and Victor Wagner (2023): SRN Document Database, https://github.com/trr266/srn_docs.
 
 ### How can I post-process the data?
 
