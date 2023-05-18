@@ -46,7 +46,7 @@ df, table_1, table_2 = prep_table()
 
 This repository features the document data and API of the 
 [Sustainabity Reporting Navigator](https://www.sustainabilityreportingnavigator.com).
-The large bulk of the initial reports in our database comes from the generous contribution by Bianca Minuth, Arianna Piscella, Gaia Melloni and Paul Pronobis and is supplemented by the ongoing data collection of the SRN team. Our objective is to develop this repository into a collaborative data platform that 
+The large bulk of the initial reports in our database comes from the generous contribution by Arianna Pisciella, Gaia Melloni, Bianca Minuth, and Paul Pronobis and is supplemented by the ongoing data collection of the SRN team. Our objective is to develop this repository into a collaborative data platform that 
 provides extensive coverage of sustainability-related documents published 
 by European publicly-listed firms.
 
