@@ -7,6 +7,7 @@ format: gfm
 
 from srn_docs_api import get_srn_companies, get_srn_documents
 import pandas as pd
+import numpy as np
 
 SRN_API_URL = "https://api.sustainabilityreportingnavigator.com/api/"
 
@@ -25,22 +26,29 @@ def prep_table():
     table_1 = (table_1
                .pivot(index='country', columns='year', values='company_id')
                .reset_index()
-               .fillna(''))
+               .replace(np.nan, None)
+               .rename(columns={"country": "Country"}))
 
-    table_1 = table_1.to_markdown(index=False)
+    table_1 = table_1.to_markdown(index=False, intfmt=",", missingval='')
 
     # table 2
-    table_2 = pd.concat([df, pd.get_dummies(df['type'])], axis=1)
+    table_2 = (pd.concat([df, pd.get_dummies(df['type'])], axis=1).
+        rename(columns={"country": "Country"}))
     aggregations = {}
     for col in table_2.columns[3:]:
         aggregations[col] = 'nunique' if col == 'company_id' else 'sum'
+
+    ocols = ['# Firms', 'AR', 'SR', 'IR', 'CDP']    
+    ncols = [c for c in table_2.columns[4:] if c not in ocols and c != "Other"]
+    ocols = ocols + ncols + ['Other']
+
     table_2 = (table_2
                .drop('year', axis=1)
-               .groupby('country')
+               .groupby('Country')
                .agg(aggregations)
-               .rename(columns={'company_id': 'number of firms'})
-               .fillna(''))
-    table_2 = table_2.to_markdown()
+               .replace(np.nan, None)
+               .rename(columns={"company_id": "# Firms"}))
+    table_2 = table_2[ocols].to_markdown(intfmt=",")
 
     return df, table_1, table_2
 df, table_1, table_2 = prep_table()
@@ -61,7 +69,7 @@ by European publicly-listed firms.
 #| output: asis
 print(
 f'''
-Currently our data covers `{len(df.company_id.unique())}` firm spanning `{len(df.country.unique())}` countries and data from the time period `{df.year.min()}` to `{df.year.max()}`. Further information can be assessed from the table below.
+Currently our data covers {len(df):,} documents from {len(df.company_id.unique()):,} firms spanning {len(df.country.unique())} countries and data from the time period {df.year.min()} to {df.year.max()}. Further information on the covered firm-years can be assessed from the table below.
 '''
 )
 ```
@@ -77,9 +85,10 @@ print(table_1)
 
 We try to collect all documents that contain relevant sustainability 
 information. This includes but is not limited to annual and sustainability
-reports. For some firms it also includes additional reports like governance 
-reports or integrated reports. All materials have been collected from the firm 
-websites and are provided as is. Neither the team of the SRN nor the maintainers 
+reports (AR and SR). For some firms it also includes additional reports like
+integreated reports (IR), Carbon Diclosure Project data (CDP) and other 
+reporting formats. All materials are referred to by URL links and are 
+provided as is. Neither the team of the SRN nor the maintainers 
 of this data repository claim any ownership of or legal rights to the 
 provided data. 
 
