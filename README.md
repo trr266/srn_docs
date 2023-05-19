@@ -12,29 +12,30 @@ firms.
 
 ### Coverage
 
-Currently our data covers 1,109 documents from 468 firms spanning 16
-countries and data from the time period 2021 to 2022. Further
+Currently our data covers 8,988 documents from 713 firms spanning 17
+countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
 
-| Country        | 2021 | 2022 |
-|:---------------|-----:|-----:|
-| Austria        |      |    4 |
-| Belgium        |    2 |    7 |
-| Denmark        |    4 |   12 |
-| Finland        |    2 |    9 |
-| France         |   24 |   56 |
-| Germany        |  164 |  142 |
-| Ireland        |    4 |    7 |
-| Italy          |    7 |   14 |
-| Netherlands    |   10 |   25 |
-| Norway         |    4 |   13 |
-| Poland         |      |    2 |
-| Portugal       |    1 |    2 |
-| Spain          |    7 |   12 |
-| Sweden         |    7 |   35 |
-| Switzerland    |    8 |   20 |
-| United Kingdom |   14 |   77 |
+| Country        | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+|:---------------|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|
+| Austria        |    7 |    7 |    7 |    7 |    7 |    7 |    8 |    8 |    8 |    8 |    8 |      |    4 |
+| Belgium        |   10 |   10 |   11 |   11 |   12 |   12 |   16 |   14 |   15 |   16 |   14 |    2 |    7 |
+| Denmark        |   13 |   14 |   14 |   14 |   14 |   17 |   19 |   19 |   20 |   20 |   20 |    4 |   12 |
+| Finland        |   10 |    9 |   10 |   11 |   11 |   12 |   14 |   15 |   15 |   15 |   16 |    2 |    9 |
+| France         |   45 |   48 |   53 |   52 |   56 |   59 |   68 |   68 |   70 |   73 |   71 |   25 |   56 |
+| Germany        |   45 |   44 |   44 |   43 |   48 |   49 |   63 |   65 |   68 |   68 |   70 |  164 |  140 |
+| Ireland        |    5 |    5 |    5 |    4 |    5 |    6 |    7 |    7 |    7 |    7 |    7 |    4 |    7 |
+| Italy          |   14 |   18 |   20 |   22 |   22 |   23 |   27 |   27 |   27 |   27 |   28 |    8 |   15 |
+| Netherlands    |   14 |   16 |   17 |   18 |   23 |   22 |   27 |   26 |   28 |   30 |   32 |    9 |   25 |
+| Norway         |   12 |   13 |   13 |   15 |   15 |   15 |   16 |   16 |   16 |   17 |   17 |    4 |   13 |
+| Poland         |    1 |    2 |    2 |    3 |    4 |    4 |    6 |    6 |    6 |    6 |    7 |      |    2 |
+| Portugal       |    2 |    2 |    3 |    3 |    3 |    3 |    4 |    4 |    4 |    4 |    4 |    1 |    2 |
+| Russia         |    1 |      |      |      |      |      |      |      |      |      |      |      |      |
+| Spain          |   13 |   17 |   18 |   21 |   22 |   22 |   25 |   25 |   25 |   25 |   24 |    7 |   12 |
+| Sweden         |   45 |   44 |   47 |   50 |   52 |   55 |   58 |   62 |   62 |   62 |   62 |    7 |   35 |
+| Switzerland    |   33 |   35 |   36 |   37 |   39 |   40 |   49 |   50 |   50 |   52 |   51 |    8 |   20 |
+| United Kingdom |   98 |  101 |  100 |  104 |  107 |  115 |  128 |  129 |  135 |  137 |  137 |   14 |   78 |
 
 ### Included report types
 
@@ -47,24 +48,25 @@ referred to by URL links and are provided as is. Neither the team of the
 SRN nor the maintainers of this data repository claim any ownership of
 or legal rights to the provided data.
 
-| Country        | \# Firms |  AR |  SR |  IR | CDP | Other |
-|:---------------|---------:|----:|----:|----:|----:|------:|
-| Austria        |        4 |   1 |   3 |   0 |   0 |     1 |
-| Belgium        |        7 |   9 |   5 |   1 |   0 |     0 |
-| Denmark        |       12 |  15 |  10 |   4 |   0 |     0 |
-| Finland        |       10 |   9 |   5 |   0 |   0 |     2 |
-| France         |       56 |  80 |  20 |   5 |   1 |     4 |
-| Germany        |      170 | 289 | 199 |  27 |   3 |     7 |
-| Ireland        |        7 |  10 |  10 |   0 |   1 |     0 |
-| Italy          |       14 |  19 |  10 |   1 |   0 |     2 |
-| Netherlands    |       25 |  36 |   6 |   1 |   0 |     6 |
-| Norway         |       13 |  17 |   7 |   0 |   0 |     0 |
-| Poland         |        2 |   1 |   1 |   0 |   0 |     0 |
-| Portugal       |        2 |   3 |   1 |   0 |   0 |     1 |
-| Spain          |       12 |  18 |   7 |   5 |   0 |     0 |
-| Sweden         |       35 |  43 |  13 |   1 |   2 |     1 |
-| Switzerland    |       22 |  22 |  22 |   2 |   0 |     2 |
-| United Kingdom |       77 |  87 |  34 |   8 |   2 |     7 |
+| Country        | \# Firms |   AR |  SR |  IR | CDP |  AR | AR_SR |  GR | Other |
+|:---------------|---------:|-----:|----:|----:|----:|----:|------:|----:|------:|
+| Austria        |        8 |   74 |  42 |   0 |   0 |   0 |     0 |   0 |    15 |
+| Belgium        |       18 |  137 |  49 |   1 |   0 |   0 |     0 |   0 |     5 |
+| Denmark        |       21 |  158 | 150 |   4 |   0 |   0 |     0 |  11 |    55 |
+| Finland        |       17 |  135 |  72 |   1 |   0 |   0 |     0 |   6 |    58 |
+| France         |       77 |  542 | 360 |  47 |   1 |   0 |     0 |   1 |    26 |
+| Germany        |      171 |  805 | 579 |  35 |   3 |   0 |     0 |   9 |    47 |
+| Ireland        |        8 |   73 |  34 |   0 |   1 |   0 |     0 |   0 |     3 |
+| Italy          |       30 |  234 | 196 |  10 |   0 |   0 |     0 |   3 |    58 |
+| Netherlands    |       35 |  198 | 153 |  16 |   0 |   0 |     0 |   0 |     8 |
+| Norway         |       18 |  138 | 109 |   4 |   0 |   0 |     0 |   0 |     1 |
+| Poland         |        8 |   25 |  22 |   0 |   0 |   0 |     0 |   1 |     8 |
+| Portugal       |        4 |   35 |  17 |   1 |   0 |   0 |     0 |   0 |     7 |
+| Russia         |        1 |    1 |   0 |   0 |   0 |   0 |     0 |   0 |     0 |
+| Spain          |       25 |  176 | 191 |  12 |   0 |   0 |     0 |  16 |    84 |
+| Sweden         |       68 |  533 | 299 |  28 |   2 |   8 |     1 |  24 |   154 |
+| Switzerland    |       53 |  433 | 236 |  12 |   0 |   0 |     0 |  12 |    41 |
+| United Kingdom |      151 | 1153 | 719 |  41 |   1 |   2 |     0 |   4 |    22 |
 
 ### How can I download the data?
 
