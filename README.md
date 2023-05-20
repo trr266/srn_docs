@@ -12,30 +12,321 @@ firms.
 
 ### Coverage
 
-Currently our data covers 8,988 documents from 713 firms spanning 17
+Currently our data covers 9,002 documents from 715 firms spanning 17
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
 
-| Country        | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
-|:---------------|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|-----:|
-| Austria        |    7 |    7 |    7 |    7 |    7 |    7 |    8 |    8 |    8 |    8 |    8 |      |    4 |
-| Belgium        |   10 |   10 |   11 |   11 |   12 |   12 |   16 |   14 |   15 |   16 |   14 |    2 |    7 |
-| Denmark        |   13 |   14 |   14 |   14 |   14 |   17 |   19 |   19 |   20 |   20 |   20 |    4 |   12 |
-| Finland        |   10 |    9 |   10 |   11 |   11 |   12 |   14 |   15 |   15 |   15 |   16 |    2 |    9 |
-| France         |   45 |   48 |   53 |   52 |   56 |   59 |   68 |   68 |   70 |   73 |   71 |   25 |   56 |
-| Germany        |   45 |   44 |   44 |   43 |   48 |   49 |   63 |   65 |   68 |   68 |   70 |  164 |  140 |
-| Ireland        |    5 |    5 |    5 |    4 |    5 |    6 |    7 |    7 |    7 |    7 |    7 |    4 |    7 |
-| Italy          |   14 |   18 |   20 |   22 |   22 |   23 |   27 |   27 |   27 |   27 |   28 |    8 |   15 |
-| Netherlands    |   14 |   16 |   17 |   18 |   23 |   22 |   27 |   26 |   28 |   30 |   32 |    9 |   25 |
-| Norway         |   12 |   13 |   13 |   15 |   15 |   15 |   16 |   16 |   16 |   17 |   17 |    4 |   13 |
-| Poland         |    1 |    2 |    2 |    3 |    4 |    4 |    6 |    6 |    6 |    6 |    7 |      |    2 |
-| Portugal       |    2 |    2 |    3 |    3 |    3 |    3 |    4 |    4 |    4 |    4 |    4 |    1 |    2 |
-| Russia         |    1 |      |      |      |      |      |      |      |      |      |      |      |      |
-| Spain          |   13 |   17 |   18 |   21 |   22 |   22 |   25 |   25 |   25 |   25 |   24 |    7 |   12 |
-| Sweden         |   45 |   44 |   47 |   50 |   52 |   55 |   58 |   62 |   62 |   62 |   62 |    7 |   35 |
-| Switzerland    |   33 |   35 |   36 |   37 |   39 |   40 |   49 |   50 |   50 |   52 |   51 |    8 |   20 |
-| United Kingdom |   98 |  101 |  100 |  104 |  107 |  115 |  128 |  129 |  135 |  137 |  137 |   14 |   78 |
+<table style="width:100%;">
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Country</th>
+<th style="text-align: right;">2010</th>
+<th style="text-align: right;">2011</th>
+<th style="text-align: right;">2012</th>
+<th style="text-align: right;">2013</th>
+<th style="text-align: right;">2014</th>
+<th style="text-align: right;">2015</th>
+<th style="text-align: right;">2016</th>
+<th style="text-align: right;">2017</th>
+<th style="text-align: right;">2018</th>
+<th style="text-align: right;">2019</th>
+<th style="text-align: right;">2020</th>
+<th style="text-align: right;">2021</th>
+<th style="text-align: right;">2022</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Austria</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Belgium</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Denmark</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">19</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">13</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Finland</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">9</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">France</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">56</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">71</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">56</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Germany</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">43</td>
+<td style="text-align: right;">48</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">65</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">70</td>
+<td style="text-align: right;">164</td>
+<td style="text-align: right;">141</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ireland</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Italy</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">16</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Netherlands</td>
+<td style="text-align: right;">14</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">23</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">26</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">25</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Norway</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">13</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Poland</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Portugal</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Russia</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Spain</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">12</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sweden</td>
+<td style="text-align: right;">45</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">55</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">35</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Switzerland</td>
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">36</td>
+<td style="text-align: right;">37</td>
+<td style="text-align: right;">39</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">50</td>
+<td style="text-align: right;">52</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">21</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">United Kingdom</td>
+<td style="text-align: right;">98</td>
+<td style="text-align: right;">101</td>
+<td style="text-align: right;">100</td>
+<td style="text-align: right;">104</td>
+<td style="text-align: right;">107</td>
+<td style="text-align: right;">115</td>
+<td style="text-align: right;">128</td>
+<td style="text-align: right;">129</td>
+<td style="text-align: right;">135</td>
+<td style="text-align: right;">137</td>
+<td style="text-align: right;">137</td>
+<td style="text-align: right;">15</td>
+<td style="text-align: right;">79</td>
+</tr>
+</tbody>
+</table>
 
 ### Included report types
 
@@ -48,25 +339,174 @@ referred to by URL links and are provided as is. Neither the team of the
 SRN nor the maintainers of this data repository claim any ownership of
 or legal rights to the provided data.
 
-| Country        | \# Firms |   AR |  SR |  IR | CDP |  AR | AR_SR |  GR | Other |
-|:---------------|---------:|-----:|----:|----:|----:|----:|------:|----:|------:|
-| Austria        |        8 |   74 |  42 |   0 |   0 |   0 |     0 |   0 |    15 |
-| Belgium        |       18 |  137 |  49 |   1 |   0 |   0 |     0 |   0 |     5 |
-| Denmark        |       21 |  158 | 150 |   4 |   0 |   0 |     0 |  11 |    55 |
-| Finland        |       17 |  135 |  72 |   1 |   0 |   0 |     0 |   6 |    58 |
-| France         |       77 |  542 | 360 |  47 |   1 |   0 |     0 |   1 |    26 |
-| Germany        |      171 |  805 | 579 |  35 |   3 |   0 |     0 |   9 |    47 |
-| Ireland        |        8 |   73 |  34 |   0 |   1 |   0 |     0 |   0 |     3 |
-| Italy          |       30 |  234 | 196 |  10 |   0 |   0 |     0 |   3 |    58 |
-| Netherlands    |       35 |  198 | 153 |  16 |   0 |   0 |     0 |   0 |     8 |
-| Norway         |       18 |  138 | 109 |   4 |   0 |   0 |     0 |   0 |     1 |
-| Poland         |        8 |   25 |  22 |   0 |   0 |   0 |     0 |   1 |     8 |
-| Portugal       |        4 |   35 |  17 |   1 |   0 |   0 |     0 |   0 |     7 |
-| Russia         |        1 |    1 |   0 |   0 |   0 |   0 |     0 |   0 |     0 |
-| Spain          |       25 |  176 | 191 |  12 |   0 |   0 |     0 |  16 |    84 |
-| Sweden         |       68 |  533 | 299 |  28 |   2 |   8 |     1 |  24 |   154 |
-| Switzerland    |       53 |  433 | 236 |  12 |   0 |   0 |     0 |  12 |    41 |
-| United Kingdom |      151 | 1153 | 719 |  41 |   1 |   2 |     0 |   4 |    22 |
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Country</th>
+<th style="text-align: right;"># Firms</th>
+<th style="text-align: right;">AR</th>
+<th style="text-align: right;">SR</th>
+<th style="text-align: right;">IR</th>
+<th style="text-align: right;">CDP</th>
+<th style="text-align: right;">Other</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Austria</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">74</td>
+<td style="text-align: right;">42</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">15</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Belgium</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">137</td>
+<td style="text-align: right;">49</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">5</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Denmark</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">159</td>
+<td style="text-align: right;">153</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">66</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Finland</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">135</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">64</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">France</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">543</td>
+<td style="text-align: right;">360</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">27</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Germany</td>
+<td style="text-align: right;">171</td>
+<td style="text-align: right;">807</td>
+<td style="text-align: right;">579</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">56</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ireland</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">73</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Italy</td>
+<td style="text-align: right;">30</td>
+<td style="text-align: right;">236</td>
+<td style="text-align: right;">196</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">61</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Netherlands</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">198</td>
+<td style="text-align: right;">153</td>
+<td style="text-align: right;">16</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">8</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Norway</td>
+<td style="text-align: right;">18</td>
+<td style="text-align: right;">138</td>
+<td style="text-align: right;">109</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Poland</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">22</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">9</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Portugal</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">35</td>
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Russia</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Spain</td>
+<td style="text-align: right;">25</td>
+<td style="text-align: right;">176</td>
+<td style="text-align: right;">191</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">100</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sweden</td>
+<td style="text-align: right;">68</td>
+<td style="text-align: right;">542</td>
+<td style="text-align: right;">299</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">178</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Switzerland</td>
+<td style="text-align: right;">53</td>
+<td style="text-align: right;">434</td>
+<td style="text-align: right;">236</td>
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">53</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">United Kingdom</td>
+<td style="text-align: right;">152</td>
+<td style="text-align: right;">1157</td>
+<td style="text-align: right;">721</td>
+<td style="text-align: right;">41</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">26</td>
+</tr>
+</tbody>
+</table>
 
 ### How can I download the data?
 

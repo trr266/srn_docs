@@ -16,6 +16,7 @@ def prep_table():
     documents = pd.DataFrame(get_srn_documents())
     df = documents.merge(companies, left_on='company_id', right_on='id')
     df = df[['country', 'type', 'year', 'company_id']]
+    df['type'] = df['type'].str.strip()
 
     # table 1
 
