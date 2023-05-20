@@ -16,9 +16,9 @@ def prep_table():
     documents = pd.DataFrame(get_srn_documents())
     df = documents.merge(companies, left_on='company_id', right_on='id')
     df = df[['country', 'type', 'year', 'company_id']]
-    df['type'] = df['type'].str.strip()
 
     # table 1
+
     table_1 = df.groupby(['country', 'year']).agg(
         {'company_id': 'nunique'}).reset_index()
 
@@ -33,12 +33,12 @@ def prep_table():
 
     # table 2
     table_2 = (pd.concat([df, pd.get_dummies(df['type'])], axis=1).
-               rename(columns={"country": "Country"}))
+        rename(columns={"country": "Country"}))
     aggregations = {}
     for col in table_2.columns[3:]:
         aggregations[col] = 'nunique' if col == 'company_id' else 'sum'
 
-    ocols = ['# Firms', 'AR', 'SR', 'IR', 'CDP']
+    ocols = ['# Firms', 'AR', 'SR', 'IR', 'CDP']    
     ncols = [c for c in table_2.columns[4:] if c not in ocols and c != "Other"]
     ocols = ocols + ncols + ['Other']
 
