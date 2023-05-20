@@ -1,0 +1,61 @@
+name: Render README
+
+on:
+  push:
+    branches: main
+  pull_request:
+    branches: main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  packages: read
+  pages: write
+
+jobs:
+  render_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11.3
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy tabulate jupyter requests
+
+      - name: Cache Quarto
+        uses: actions/cache@v2
+        with:
+          path: ~/.quarto
+          key: ${{ runner.os }}-quarto-${{ hashFiles('**/README.qmd') }}
+          restore-keys: |
+            ${{ runner.os }}-quarto-
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render README
+        run: quarto render README.qmd --to md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update README.md" --author="GitHub Actions <actions@github.com>"
+          git push
