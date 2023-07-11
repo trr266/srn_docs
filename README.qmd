@@ -87,9 +87,9 @@ print(table_1)
 We try to collect all documents that contain relevant sustainability 
 information. This includes but is not limited to annual and sustainability
 reports (AR and SR). For some firms it also includes additional reports like
-integreated reports (IR), Carbon Diclosure Project data (CDP) and other 
-reporting formats. All materials are referred to by URL links and are 
-provided as is. Neither the team of the SRN nor the maintainers 
+integreated reports (IR), Carbon Diclosure Project data (CDP), 
+and other reporting formats. All materials are referred to by URL 
+links and are provided as is. Neither the team of the SRN nor the maintainers 
 of this data repository claim any ownership of or legal rights to the 
 provided data. 
 
@@ -135,5 +135,5 @@ and describing the issue that you encountered.
 Thank you and yes, of course! We would be very happy about people that 
 provide historical data and/or are willing to maintain our data going 
 forward on a country or index basis. So, if you would like to help, please
-reach out to [Victor Wagner](victor.wagner@lmu.de).
+reach out to [Victor Wagner](mailto:victor.wagner@lmu.de).
 
