@@ -7,7 +7,7 @@ on:
     branches: main
   workflow_dispatch:
   schedule:
-    - cron: '45 11 * * *'
+    - cron: '45 11 * * *' # 11:45 UTC every day
 
 permissions:
   contents: write
