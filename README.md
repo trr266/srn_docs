@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 9,549 documents from 735 firms spanning 18
+Currently our data covers 9,561 documents from 735 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -163,7 +163,7 @@ below.
 <td style="text-align: right;">7</td>
 <td style="text-align: right;">7</td>
 <td style="text-align: right;">4</td>
-<td style="text-align: right;">7</td>
+<td style="text-align: right;">8</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Italy</td>
@@ -323,7 +323,7 @@ below.
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">38</td>
-<td style="text-align: right;">129</td>
+<td style="text-align: right;">133</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
@@ -425,8 +425,8 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Ireland</td>
 <td style="text-align: right;">8</td>
-<td style="text-align: right;">74</td>
-<td style="text-align: right;">34</td>
+<td style="text-align: right;">75</td>
+<td style="text-align: right;">35</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">3</td>
@@ -506,7 +506,7 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Switzerland</td>
 <td style="text-align: right;">56</td>
-<td style="text-align: right;">467</td>
+<td style="text-align: right;">468</td>
 <td style="text-align: right;">268</td>
 <td style="text-align: right;">14</td>
 <td style="text-align: right;">0</td>
@@ -515,8 +515,8 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">156</td>
-<td style="text-align: right;">1240</td>
-<td style="text-align: right;">766</td>
+<td style="text-align: right;">1245</td>
+<td style="text-align: right;">770</td>
 <td style="text-align: right;">38</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">33</td>
