@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 9,573 documents from 736 firms spanning 18
+Currently our data covers 9,583 documents from 736 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -99,7 +99,7 @@ below.
 <td style="text-align: right;">20</td>
 <td style="text-align: right;">20</td>
 <td style="text-align: right;">7</td>
-<td style="text-align: right;">22</td>
+<td style="text-align: right;">23</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Finland</td>
@@ -211,7 +211,7 @@ below.
 <td style="text-align: right;">17</td>
 <td style="text-align: right;">17</td>
 <td style="text-align: right;">7</td>
-<td style="text-align: right;">14</td>
+<td style="text-align: right;">16</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Poland</td>
@@ -323,7 +323,7 @@ below.
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">38</td>
-<td style="text-align: right;">141</td>
+<td style="text-align: right;">143</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
@@ -389,8 +389,8 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Denmark</td>
 <td style="text-align: right;">23</td>
-<td style="text-align: right;">167</td>
-<td style="text-align: right;">165</td>
+<td style="text-align: right;">168</td>
+<td style="text-align: right;">166</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">66</td>
@@ -452,7 +452,7 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Norway</td>
 <td style="text-align: right;">19</td>
-<td style="text-align: right;">143</td>
+<td style="text-align: right;">145</td>
 <td style="text-align: right;">109</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">0</td>
@@ -497,7 +497,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">73</td>
-<td style="text-align: right;">583</td>
+<td style="text-align: right;">587</td>
 <td style="text-align: right;">321</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">2</td>
@@ -515,7 +515,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">157</td>
-<td style="text-align: right;">1254</td>
+<td style="text-align: right;">1256</td>
 <td style="text-align: right;">772</td>
 <td style="text-align: right;">38</td>
 <td style="text-align: right;">1</td>
