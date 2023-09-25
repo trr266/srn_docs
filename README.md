@@ -398,11 +398,11 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Finland</td>
 <td style="text-align: right;">17</td>
-<td style="text-align: right;">142</td>
-<td style="text-align: right;">80</td>
+<td style="text-align: right;">144</td>
+<td style="text-align: right;">79</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">64</td>
+<td style="text-align: right;">63</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">France</td>
