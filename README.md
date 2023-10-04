@@ -275,7 +275,7 @@ below.
 <td style="text-align: right;">25</td>
 <td style="text-align: right;">24</td>
 <td style="text-align: right;">11</td>
-<td style="text-align: right;">24</td>
+<td style="text-align: right;">23</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
