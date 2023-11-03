@@ -435,10 +435,10 @@ or legal rights to the provided data.
 <td style="text-align: left;">Italy</td>
 <td style="text-align: right;">30</td>
 <td style="text-align: right;">252</td>
-<td style="text-align: right;">213</td>
+<td style="text-align: right;">214</td>
 <td style="text-align: right;">10</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">62</td>
+<td style="text-align: right;">61</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Netherlands</td>
