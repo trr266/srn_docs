@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 9,781 documents from 742 firms spanning 18
+Currently our data covers 9,785 documents from 745 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -323,7 +323,7 @@ below.
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">49</td>
-<td style="text-align: right;">147</td>
+<td style="text-align: right;">149</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
@@ -339,7 +339,7 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;"></td>
-<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
 </tr>
 </tbody>
 </table>
@@ -417,7 +417,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
 <td style="text-align: right;">866</td>
-<td style="text-align: right;">653</td>
+<td style="text-align: right;">654</td>
 <td style="text-align: right;">34</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">60</td>
@@ -514,8 +514,8 @@ or legal rights to the provided data.
 </tr>
 <tr class="odd">
 <td style="text-align: left;">United Kingdom</td>
-<td style="text-align: right;">159</td>
-<td style="text-align: right;">1274</td>
+<td style="text-align: right;">161</td>
+<td style="text-align: right;">1276</td>
 <td style="text-align: right;">788</td>
 <td style="text-align: right;">57</td>
 <td style="text-align: right;">1</td>
@@ -523,9 +523,9 @@ or legal rights to the provided data.
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
+<td style="text-align: right;">4</td>
 <td style="text-align: right;">3</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">9</td>
+<td style="text-align: right;">10</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
