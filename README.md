@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 9,810 documents from 747 firms spanning 18
+Currently our data covers 9,814 documents from 748 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -339,7 +339,7 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;"></td>
-<td style="text-align: right;">5</td>
+<td style="text-align: right;">6</td>
 </tr>
 </tbody>
 </table>
@@ -417,7 +417,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
 <td style="text-align: right;">866</td>
-<td style="text-align: right;">656</td>
+<td style="text-align: right;">658</td>
 <td style="text-align: right;">34</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">61</td>
@@ -523,10 +523,10 @@ or legal rights to the provided data.
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
+<td style="text-align: right;">6</td>
 <td style="text-align: right;">5</td>
-<td style="text-align: right;">4</td>
 <td style="text-align: right;">11</td>
-<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 </tr>
