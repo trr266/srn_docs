@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 9,923 documents from 767 firms spanning 18
+Currently our data covers 9,928 documents from 768 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -275,7 +275,7 @@ below.
 <td style="text-align: right;">25</td>
 <td style="text-align: right;">24</td>
 <td style="text-align: right;">12</td>
-<td style="text-align: right;">25</td>
+<td style="text-align: right;">26</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
@@ -407,8 +407,8 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">France</td>
 <td style="text-align: right;">80</td>
-<td style="text-align: right;">607</td>
-<td style="text-align: right;">378</td>
+<td style="text-align: right;">608</td>
+<td style="text-align: right;">379</td>
 <td style="text-align: right;">43</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">29</td>
@@ -444,7 +444,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">Netherlands</td>
 <td style="text-align: right;">35</td>
 <td style="text-align: right;">216</td>
-<td style="text-align: right;">161</td>
+<td style="text-align: right;">162</td>
 <td style="text-align: right;">16</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">13</td>
@@ -487,9 +487,9 @@ or legal rights to the provided data.
 </tr>
 <tr class="even">
 <td style="text-align: left;">Spain</td>
-<td style="text-align: right;">26</td>
-<td style="text-align: right;">191</td>
-<td style="text-align: right;">208</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">193</td>
+<td style="text-align: right;">207</td>
 <td style="text-align: right;">9</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">100</td>
@@ -525,7 +525,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">United States</td>
 <td style="text-align: right;">16</td>
 <td style="text-align: right;">19</td>
-<td style="text-align: right;">21</td>
+<td style="text-align: right;">22</td>
 <td style="text-align: right;">10</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">1</td>
