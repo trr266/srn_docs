@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 9,987 documents from 783 firms spanning 18
+Currently our data covers 9,997 documents from 785 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -339,7 +339,7 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">3</td>
-<td style="text-align: right;">25</td>
+<td style="text-align: right;">27</td>
 </tr>
 </tbody>
 </table>
@@ -411,13 +411,13 @@ or legal rights to the provided data.
 <td style="text-align: right;">379</td>
 <td style="text-align: right;">43</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">29</td>
+<td style="text-align: right;">30</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
 <td style="text-align: right;">872</td>
-<td style="text-align: right;">662</td>
+<td style="text-align: right;">663</td>
 <td style="text-align: right;">34</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">62</td>
@@ -516,17 +516,17 @@ or legal rights to the provided data.
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">165</td>
 <td style="text-align: right;">1291</td>
-<td style="text-align: right;">805</td>
-<td style="text-align: right;">57</td>
+<td style="text-align: right;">808</td>
+<td style="text-align: right;">58</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">38</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
-<td style="text-align: right;">25</td>
 <td style="text-align: right;">27</td>
-<td style="text-align: right;">32</td>
-<td style="text-align: right;">10</td>
+<td style="text-align: right;">27</td>
+<td style="text-align: right;">34</td>
+<td style="text-align: right;">12</td>
 <td style="text-align: right;">2</td>
 <td style="text-align: right;">2</td>
 </tr>
