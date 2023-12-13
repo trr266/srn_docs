@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,046 documents from 794 firms spanning 18
+Currently our data covers 10,052 documents from 795 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -339,7 +339,7 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">5</td>
 <td style="text-align: right;">4</td>
-<td style="text-align: right;">34</td>
+<td style="text-align: right;">35</td>
 </tr>
 </tbody>
 </table>
@@ -409,7 +409,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">81</td>
 <td style="text-align: right;">613</td>
 <td style="text-align: right;">379</td>
-<td style="text-align: right;">43</td>
+<td style="text-align: right;">46</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">30</td>
 </tr>
@@ -420,7 +420,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">663</td>
 <td style="text-align: right;">34</td>
 <td style="text-align: right;">3</td>
-<td style="text-align: right;">63</td>
+<td style="text-align: right;">64</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Ireland</td>
@@ -490,9 +490,9 @@ or legal rights to the provided data.
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">203</td>
 <td style="text-align: right;">214</td>
-<td style="text-align: right;">10</td>
+<td style="text-align: right;">9</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">100</td>
+<td style="text-align: right;">101</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
@@ -523,11 +523,11 @@ or legal rights to the provided data.
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
-<td style="text-align: right;">35</td>
+<td style="text-align: right;">36</td>
 <td style="text-align: right;">28</td>
-<td style="text-align: right;">44</td>
+<td style="text-align: right;">45</td>
 <td style="text-align: right;">12</td>
-<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
 <td style="text-align: right;">2</td>
 </tr>
 </tbody>
