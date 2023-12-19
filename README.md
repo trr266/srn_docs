@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,072 documents from 799 firms spanning 18
+Currently our data covers 10,082 documents from 800 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -145,7 +145,7 @@ below.
 <td style="text-align: right;">65</td>
 <td style="text-align: right;">68</td>
 <td style="text-align: right;">68</td>
-<td style="text-align: right;">70</td>
+<td style="text-align: right;">72</td>
 <td style="text-align: right;">166</td>
 <td style="text-align: right;">173</td>
 </tr>
@@ -337,9 +337,9 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">38</td>
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">39</td>
 </tr>
 </tbody>
 </table>
@@ -416,8 +416,8 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
-<td style="text-align: right;">874</td>
-<td style="text-align: right;">665</td>
+<td style="text-align: right;">875</td>
+<td style="text-align: right;">666</td>
 <td style="text-align: right;">34</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">64</td>
@@ -516,19 +516,19 @@ or legal rights to the provided data.
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">166</td>
 <td style="text-align: right;">1293</td>
-<td style="text-align: right;">810</td>
+<td style="text-align: right;">811</td>
 <td style="text-align: right;">59</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">40</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
-<td style="text-align: right;">39</td>
-<td style="text-align: right;">28</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">29</td>
 <td style="text-align: right;">50</td>
-<td style="text-align: right;">16</td>
+<td style="text-align: right;">21</td>
 <td style="text-align: right;">6</td>
-<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
 </tr>
 </tbody>
 </table>
