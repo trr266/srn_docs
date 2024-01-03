@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,216 documents from 820 firms spanning 18
+Currently our data covers 10,226 documents from 821 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -145,7 +145,7 @@ below.
 <td style="text-align: right;">65</td>
 <td style="text-align: right;">68</td>
 <td style="text-align: right;">68</td>
-<td style="text-align: right;">72</td>
+<td style="text-align: right;">73</td>
 <td style="text-align: right;">166</td>
 <td style="text-align: right;">173</td>
 </tr>
@@ -290,7 +290,7 @@ below.
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">62</td>
-<td style="text-align: right;">30</td>
+<td style="text-align: right;">31</td>
 <td style="text-align: right;">71</td>
 </tr>
 <tr class="even">
@@ -337,9 +337,9 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">19</td>
-<td style="text-align: right;">31</td>
-<td style="text-align: right;">56</td>
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">57</td>
 </tr>
 </tbody>
 </table>
@@ -416,7 +416,7 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
-<td style="text-align: right;">876</td>
+<td style="text-align: right;">877</td>
 <td style="text-align: right;">668</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">3</td>
@@ -498,7 +498,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">75</td>
 <td style="text-align: right;">612</td>
-<td style="text-align: right;">330</td>
+<td style="text-align: right;">331</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">14</td>
 <td style="text-align: right;">180</td>
@@ -523,11 +523,11 @@ or legal rights to the provided data.
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
-<td style="text-align: right;">57</td>
-<td style="text-align: right;">57</td>
-<td style="text-align: right;">114</td>
+<td style="text-align: right;">58</td>
+<td style="text-align: right;">59</td>
+<td style="text-align: right;">119</td>
 <td style="text-align: right;">33</td>
-<td style="text-align: right;">15</td>
+<td style="text-align: right;">16</td>
 <td style="text-align: right;">8</td>
 </tr>
 </tbody>
