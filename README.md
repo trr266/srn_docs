@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,284 documents from 835 firms spanning 18
+Currently our data covers 10,304 documents from 837 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -145,7 +145,7 @@ below.
 <td style="text-align: right;">65</td>
 <td style="text-align: right;">68</td>
 <td style="text-align: right;">68</td>
-<td style="text-align: right;">75</td>
+<td style="text-align: right;">77</td>
 <td style="text-align: right;">166</td>
 <td style="text-align: right;">173</td>
 </tr>
@@ -178,7 +178,7 @@ below.
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">29</td>
-<td style="text-align: right;">16</td>
+<td style="text-align: right;">19</td>
 <td style="text-align: right;">32</td>
 </tr>
 <tr class="odd">
@@ -321,7 +321,7 @@ below.
 <td style="text-align: right;">128</td>
 <td style="text-align: right;">134</td>
 <td style="text-align: right;">136</td>
-<td style="text-align: right;">138</td>
+<td style="text-align: right;">139</td>
 <td style="text-align: right;">55</td>
 <td style="text-align: right;">156</td>
 </tr>
@@ -337,9 +337,9 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">27</td>
-<td style="text-align: right;">38</td>
-<td style="text-align: right;">68</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">40</td>
+<td style="text-align: right;">69</td>
 </tr>
 </tbody>
 </table>
@@ -409,15 +409,15 @@ or legal rights to the provided data.
 <td style="text-align: right;">81</td>
 <td style="text-align: right;">614</td>
 <td style="text-align: right;">378</td>
-<td style="text-align: right;">46</td>
+<td style="text-align: right;">47</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">31</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
-<td style="text-align: right;">879</td>
-<td style="text-align: right;">671</td>
+<td style="text-align: right;">880</td>
+<td style="text-align: right;">673</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">64</td>
@@ -434,8 +434,8 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Italy</td>
 <td style="text-align: right;">33</td>
-<td style="text-align: right;">260</td>
-<td style="text-align: right;">219</td>
+<td style="text-align: right;">263</td>
+<td style="text-align: right;">222</td>
 <td style="text-align: right;">11</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">61</td>
@@ -506,7 +506,7 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Switzerland</td>
 <td style="text-align: right;">58</td>
-<td style="text-align: right;">476</td>
+<td style="text-align: right;">477</td>
 <td style="text-align: right;">278</td>
 <td style="text-align: right;">15</td>
 <td style="text-align: right;">0</td>
@@ -514,18 +514,18 @@ or legal rights to the provided data.
 </tr>
 <tr class="odd">
 <td style="text-align: left;">United Kingdom</td>
-<td style="text-align: right;">167</td>
+<td style="text-align: right;">168</td>
 <td style="text-align: right;">1295</td>
-<td style="text-align: right;">813</td>
+<td style="text-align: right;">814</td>
 <td style="text-align: right;">59</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">46</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
-<td style="text-align: right;">71</td>
-<td style="text-align: right;">73</td>
-<td style="text-align: right;">143</td>
+<td style="text-align: right;">72</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">147</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">19</td>
 <td style="text-align: right;">12</td>
