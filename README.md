@@ -12,7 +12,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,334 documents from 839 firms spanning 18
+Currently our data covers 10,358 documents from 842 firms spanning 18
 countries and data from the time period 2010 to 2022. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -194,7 +194,7 @@ below.
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">30</td>
 <td style="text-align: right;">32</td>
-<td style="text-align: right;">21</td>
+<td style="text-align: right;">22</td>
 <td style="text-align: right;">33</td>
 </tr>
 <tr class="even">
@@ -289,7 +289,7 @@ below.
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">62</td>
-<td style="text-align: right;">62</td>
+<td style="text-align: right;">63</td>
 <td style="text-align: right;">31</td>
 <td style="text-align: right;">71</td>
 </tr>
@@ -337,9 +337,9 @@ below.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">30</td>
-<td style="text-align: right;">42</td>
-<td style="text-align: right;">71</td>
+<td style="text-align: right;">32</td>
+<td style="text-align: right;">44</td>
+<td style="text-align: right;">74</td>
 </tr>
 </tbody>
 </table>
@@ -390,7 +390,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">Denmark</td>
 <td style="text-align: right;">26</td>
 <td style="text-align: right;">177</td>
-<td style="text-align: right;">170</td>
+<td style="text-align: right;">171</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">66</td>
@@ -418,7 +418,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">173</td>
 <td style="text-align: right;">880</td>
 <td style="text-align: right;">673</td>
-<td style="text-align: right;">33</td>
+<td style="text-align: right;">34</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">64</td>
 </tr>
@@ -443,8 +443,8 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Netherlands</td>
 <td style="text-align: right;">35</td>
-<td style="text-align: right;">220</td>
-<td style="text-align: right;">165</td>
+<td style="text-align: right;">222</td>
+<td style="text-align: right;">164</td>
 <td style="text-align: right;">16</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">13</td>
@@ -490,15 +490,15 @@ or legal rights to the provided data.
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">204</td>
 <td style="text-align: right;">215</td>
-<td style="text-align: right;">11</td>
+<td style="text-align: right;">10</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">100</td>
+<td style="text-align: right;">101</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">75</td>
 <td style="text-align: right;">612</td>
-<td style="text-align: right;">331</td>
+<td style="text-align: right;">332</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">14</td>
 <td style="text-align: right;">180</td>
@@ -516,18 +516,18 @@ or legal rights to the provided data.
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">168</td>
 <td style="text-align: right;">1295</td>
-<td style="text-align: right;">814</td>
+<td style="text-align: right;">815</td>
 <td style="text-align: right;">59</td>
 <td style="text-align: right;">1</td>
-<td style="text-align: right;">46</td>
+<td style="text-align: right;">47</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">United States</td>
-<td style="text-align: right;">74</td>
-<td style="text-align: right;">83</td>
-<td style="text-align: right;">160</td>
+<td style="text-align: right;">77</td>
+<td style="text-align: right;">90</td>
+<td style="text-align: right;">169</td>
 <td style="text-align: right;">31</td>
-<td style="text-align: right;">19</td>
+<td style="text-align: right;">21</td>
 <td style="text-align: right;">12</td>
 </tr>
 </tbody>
