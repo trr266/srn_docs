@@ -1,5 +1,6 @@
 # Sustainability Reporting Navigator Document Database
 
+
 This repository features the document data and API of the [Sustainabity
 Reporting Navigator](https://www.sustainabilityreportingnavigator.com).
 The large bulk of the initial reports in our database comes from the
