@@ -490,10 +490,10 @@ or legal rights to the provided data.
 <td style="text-align: left;">Spain</td>
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">206</td>
-<td style="text-align: right;">215</td>
+<td style="text-align: right;">216</td>
 <td style="text-align: right;">10</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">101</td>
+<td style="text-align: right;">100</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
