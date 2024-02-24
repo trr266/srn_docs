@@ -546,10 +546,10 @@ or legal rights to the provided data.
 <td style="text-align: left;">United States</td>
 <td style="text-align: right;">94</td>
 <td style="text-align: right;">111</td>
-<td style="text-align: right;">212</td>
-<td style="text-align: right;">34</td>
+<td style="text-align: right;">243</td>
+<td style="text-align: right;">13</td>
 <td style="text-align: right;">21</td>
-<td style="text-align: right;">12</td>
+<td style="text-align: right;">2</td>
 </tr>
 </tbody>
 </table>
