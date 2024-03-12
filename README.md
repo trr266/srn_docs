@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,505 documents from 863 firms spanning 18
+Currently our data covers 10,510 documents from 863 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -324,7 +324,7 @@ below.
 <td style="text-align: right;">50</td>
 <td style="text-align: right;">52</td>
 <td style="text-align: right;">51</td>
-<td style="text-align: right;">21</td>
+<td style="text-align: right;">23</td>
 <td style="text-align: right;">54</td>
 <td style="text-align: right;"></td>
 </tr>
@@ -437,9 +437,9 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">173</td>
-<td style="text-align: right;">910</td>
-<td style="text-align: right;">690</td>
-<td style="text-align: right;">36</td>
+<td style="text-align: right;">911</td>
+<td style="text-align: right;">689</td>
+<td style="text-align: right;">37</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">66</td>
 </tr>
@@ -527,8 +527,8 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Switzerland</td>
 <td style="text-align: right;">58</td>
-<td style="text-align: right;">477</td>
-<td style="text-align: right;">280</td>
+<td style="text-align: right;">479</td>
+<td style="text-align: right;">282</td>
 <td style="text-align: right;">15</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">55</td>
