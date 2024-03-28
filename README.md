@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,552 documents from 865 firms spanning 18
+Currently our data covers 10,554 documents from 865 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -441,7 +441,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">702</td>
 <td style="text-align: right;">39</td>
 <td style="text-align: right;">3</td>
-<td style="text-align: right;">66</td>
+<td style="text-align: right;">68</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Ireland</td>
