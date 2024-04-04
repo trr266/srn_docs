@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 10,558 documents from 866 firms spanning 18
+Currently our data covers 10,560 documents from 866 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -105,7 +105,7 @@ below.
 <td style="text-align: right;">20</td>
 <td style="text-align: right;">8</td>
 <td style="text-align: right;">27</td>
-<td style="text-align: right;">2</td>
+<td style="text-align: right;">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Finland</td>
@@ -224,7 +224,7 @@ below.
 <td style="text-align: right;">18</td>
 <td style="text-align: right;">9</td>
 <td style="text-align: right;">19</td>
-<td style="text-align: right;"></td>
+<td style="text-align: right;">1</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Poland</td>
@@ -410,7 +410,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Denmark</td>
 <td style="text-align: right;">27</td>
-<td style="text-align: right;">180</td>
+<td style="text-align: right;">181</td>
 <td style="text-align: right;">172</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">0</td>
@@ -473,7 +473,7 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Norway</td>
 <td style="text-align: right;">21</td>
-<td style="text-align: right;">151</td>
+<td style="text-align: right;">152</td>
 <td style="text-align: right;">116</td>
 <td style="text-align: right;">5</td>
 <td style="text-align: right;">0</td>
