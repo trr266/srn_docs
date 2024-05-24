@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 11,589 documents from 883 firms spanning 18
+Currently our data covers 11,593 documents from 883 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -205,7 +205,7 @@ below.
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">30</td>
 <td style="text-align: right;">33</td>
-<td style="text-align: right;">23</td>
+<td style="text-align: right;">24</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">32</td>
 </tr>
@@ -307,7 +307,7 @@ below.
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">63</td>
-<td style="text-align: right;">45</td>
+<td style="text-align: right;">46</td>
 <td style="text-align: right;">71</td>
 <td style="text-align: right;">63</td>
 </tr>
@@ -439,7 +439,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">183</td>
 <td style="text-align: right;">1041</td>
 <td style="text-align: right;">773</td>
-<td style="text-align: right;">41</td>
+<td style="text-align: right;">42</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">69</td>
 </tr>
@@ -464,7 +464,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Netherlands</td>
 <td style="text-align: right;">35</td>
-<td style="text-align: right;">262</td>
+<td style="text-align: right;">263</td>
 <td style="text-align: right;">175</td>
 <td style="text-align: right;">16</td>
 <td style="text-align: right;">0</td>
@@ -518,7 +518,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">75</td>
-<td style="text-align: right;">690</td>
+<td style="text-align: right;">691</td>
 <td style="text-align: right;">344</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">13</td>
@@ -537,7 +537,7 @@ or legal rights to the provided data.
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">170</td>
 <td style="text-align: right;">1443</td>
-<td style="text-align: right;">894</td>
+<td style="text-align: right;">895</td>
 <td style="text-align: right;">61</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">50</td>
