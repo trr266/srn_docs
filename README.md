@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 11,604 documents from 883 firms spanning 18
+Currently our data covers 11,607 documents from 883 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -69,7 +69,7 @@ below.
 <td style="text-align: right;">8</td>
 <td style="text-align: right;">8</td>
 <td style="text-align: right;">8</td>
-<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
 <td style="text-align: right;">8</td>
 <td style="text-align: right;">7</td>
 </tr>
@@ -307,7 +307,7 @@ below.
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">62</td>
 <td style="text-align: right;">63</td>
-<td style="text-align: right;">47</td>
+<td style="text-align: right;">48</td>
 <td style="text-align: right;">71</td>
 <td style="text-align: right;">63</td>
 </tr>
@@ -341,7 +341,7 @@ below.
 <td style="text-align: right;">134</td>
 <td style="text-align: right;">136</td>
 <td style="text-align: right;">142</td>
-<td style="text-align: right;">61</td>
+<td style="text-align: right;">62</td>
 <td style="text-align: right;">157</td>
 <td style="text-align: right;">138</td>
 </tr>
@@ -392,7 +392,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Austria</td>
 <td style="text-align: right;">9</td>
-<td style="text-align: right;">90</td>
+<td style="text-align: right;">91</td>
 <td style="text-align: right;">50</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
@@ -522,7 +522,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">345</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">13</td>
-<td style="text-align: right;">181</td>
+<td style="text-align: right;">182</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Switzerland</td>
@@ -536,7 +536,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">170</td>
-<td style="text-align: right;">1444</td>
+<td style="text-align: right;">1445</td>
 <td style="text-align: right;">898</td>
 <td style="text-align: right;">61</td>
 <td style="text-align: right;">1</td>
