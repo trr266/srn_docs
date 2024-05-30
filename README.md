@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 11,629 documents from 883 firms spanning 18
+Currently our data covers 11,636 documents from 883 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -340,7 +340,7 @@ below.
 <td style="text-align: right;">128</td>
 <td style="text-align: right;">134</td>
 <td style="text-align: right;">136</td>
-<td style="text-align: right;">144</td>
+<td style="text-align: right;">145</td>
 <td style="text-align: right;">63</td>
 <td style="text-align: right;">157</td>
 <td style="text-align: right;">138</td>
@@ -419,11 +419,11 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Finland</td>
 <td style="text-align: right;">17</td>
-<td style="text-align: right;">167</td>
+<td style="text-align: right;">168</td>
 <td style="text-align: right;">87</td>
 <td style="text-align: right;">2</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">66</td>
+<td style="text-align: right;">68</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">France</td>
@@ -455,8 +455,8 @@ or legal rights to the provided data.
 <tr class="even">
 <td style="text-align: left;">Italy</td>
 <td style="text-align: right;">33</td>
-<td style="text-align: right;">299</td>
-<td style="text-align: right;">242</td>
+<td style="text-align: right;">300</td>
+<td style="text-align: right;">243</td>
 <td style="text-align: right;">12</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">62</td>
@@ -518,7 +518,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">75</td>
-<td style="text-align: right;">692</td>
+<td style="text-align: right;">693</td>
 <td style="text-align: right;">345</td>
 <td style="text-align: right;">27</td>
 <td style="text-align: right;">13</td>
@@ -536,7 +536,7 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">170</td>
-<td style="text-align: right;">1450</td>
+<td style="text-align: right;">1451</td>
 <td style="text-align: right;">899</td>
 <td style="text-align: right;">61</td>
 <td style="text-align: right;">1</td>
