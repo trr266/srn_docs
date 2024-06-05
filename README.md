@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 11,651 documents from 883 firms spanning 18
+Currently our data covers 11,655 documents from 883 firms spanning 18
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -239,7 +239,7 @@ below.
 <td style="text-align: right;">6</td>
 <td style="text-align: right;">6</td>
 <td style="text-align: right;">8</td>
-<td style="text-align: right;">3</td>
+<td style="text-align: right;">4</td>
 <td style="text-align: right;">10</td>
 <td style="text-align: right;">9</td>
 </tr>
@@ -290,7 +290,7 @@ below.
 <td style="text-align: right;">25</td>
 <td style="text-align: right;">25</td>
 <td style="text-align: right;">25</td>
-<td style="text-align: right;">20</td>
+<td style="text-align: right;">21</td>
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">25</td>
 </tr>
@@ -414,7 +414,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">197</td>
 <td style="text-align: right;">6</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">67</td>
+<td style="text-align: right;">68</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Finland</td>
@@ -482,8 +482,8 @@ or legal rights to the provided data.
 <tr class="odd">
 <td style="text-align: left;">Poland</td>
 <td style="text-align: right;">11</td>
-<td style="text-align: right;">46</td>
-<td style="text-align: right;">32</td>
+<td style="text-align: right;">47</td>
+<td style="text-align: right;">33</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">11</td>
@@ -511,7 +511,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">29</td>
 <td style="text-align: right;">235</td>
 <td style="text-align: right;">225</td>
-<td style="text-align: right;">11</td>
+<td style="text-align: right;">12</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">102</td>
 </tr>
