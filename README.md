@@ -456,8 +456,8 @@ or legal rights to the provided data.
 <td style="text-align: left;">Italy</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">303</td>
-<td style="text-align: right;">245</td>
-<td style="text-align: right;">12</td>
+<td style="text-align: right;">247</td>
+<td style="text-align: right;">10</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">62</td>
 </tr>
