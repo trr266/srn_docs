@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 11,850 documents from 883 firms spanning 18
+Currently our data covers 11,854 documents from 884 firms spanning 19
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -91,6 +91,23 @@ below.
 <td style="text-align: right;">17</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;">Czech Republic</td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;"></td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">Denmark</td>
 <td style="text-align: right;">13</td>
 <td style="text-align: right;">14</td>
@@ -107,7 +124,7 @@ below.
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">28</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Finland</td>
 <td style="text-align: right;">10</td>
 <td style="text-align: right;">9</td>
@@ -124,7 +141,7 @@ below.
 <td style="text-align: right;">15</td>
 <td style="text-align: right;">15</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">France</td>
 <td style="text-align: right;">45</td>
 <td style="text-align: right;">48</td>
@@ -141,7 +158,7 @@ below.
 <td style="text-align: right;">79</td>
 <td style="text-align: right;">72</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">45</td>
 <td style="text-align: right;">44</td>
@@ -158,7 +175,7 @@ below.
 <td style="text-align: right;">180</td>
 <td style="text-align: right;">140</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Ireland</td>
 <td style="text-align: right;">5</td>
 <td style="text-align: right;">5</td>
@@ -175,7 +192,7 @@ below.
 <td style="text-align: right;">8</td>
 <td style="text-align: right;">9</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Italy</td>
 <td style="text-align: right;">14</td>
 <td style="text-align: right;">18</td>
@@ -192,7 +209,7 @@ below.
 <td style="text-align: right;">32</td>
 <td style="text-align: right;">29</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Netherlands</td>
 <td style="text-align: right;">14</td>
 <td style="text-align: right;">16</td>
@@ -209,7 +226,7 @@ below.
 <td style="text-align: right;">34</td>
 <td style="text-align: right;">32</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Norway</td>
 <td style="text-align: right;">12</td>
 <td style="text-align: right;">13</td>
@@ -226,7 +243,7 @@ below.
 <td style="text-align: right;">20</td>
 <td style="text-align: right;">18</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Poland</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">2</td>
@@ -243,7 +260,7 @@ below.
 <td style="text-align: right;">10</td>
 <td style="text-align: right;">9</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Portugal</td>
 <td style="text-align: right;">2</td>
 <td style="text-align: right;">2</td>
@@ -260,7 +277,7 @@ below.
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">4</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Russia</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;"></td>
@@ -277,7 +294,7 @@ below.
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Spain</td>
 <td style="text-align: right;">13</td>
 <td style="text-align: right;">17</td>
@@ -294,7 +311,7 @@ below.
 <td style="text-align: right;">28</td>
 <td style="text-align: right;">26</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">45</td>
 <td style="text-align: right;">44</td>
@@ -311,7 +328,7 @@ below.
 <td style="text-align: right;">71</td>
 <td style="text-align: right;">63</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Switzerland</td>
 <td style="text-align: right;">33</td>
 <td style="text-align: right;">35</td>
@@ -328,7 +345,7 @@ below.
 <td style="text-align: right;">56</td>
 <td style="text-align: right;">53</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">98</td>
 <td style="text-align: right;">101</td>
@@ -345,7 +362,7 @@ below.
 <td style="text-align: right;">156</td>
 <td style="text-align: right;">139</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">United States</td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"></td>
@@ -408,6 +425,15 @@ or legal rights to the provided data.
 <td style="text-align: right;">5</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;">Czech Republic</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">Denmark</td>
 <td style="text-align: right;">30</td>
 <td style="text-align: right;">220</td>
@@ -416,7 +442,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">68</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Finland</td>
 <td style="text-align: right;">17</td>
 <td style="text-align: right;">173</td>
@@ -425,7 +451,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">67</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">France</td>
 <td style="text-align: right;">81</td>
 <td style="text-align: right;">728</td>
@@ -434,7 +460,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">58</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">183</td>
 <td style="text-align: right;">1050</td>
@@ -443,7 +469,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">72</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Ireland</td>
 <td style="text-align: right;">9</td>
 <td style="text-align: right;">86</td>
@@ -452,7 +478,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Italy</td>
 <td style="text-align: right;">32</td>
 <td style="text-align: right;">303</td>
@@ -461,7 +487,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">62</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Netherlands</td>
 <td style="text-align: right;">36</td>
 <td style="text-align: right;">266</td>
@@ -470,7 +496,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">13</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Norway</td>
 <td style="text-align: right;">22</td>
 <td style="text-align: right;">172</td>
@@ -479,7 +505,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Poland</td>
 <td style="text-align: right;">11</td>
 <td style="text-align: right;">49</td>
@@ -488,7 +514,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">11</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Portugal</td>
 <td style="text-align: right;">4</td>
 <td style="text-align: right;">42</td>
@@ -497,7 +523,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">7</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Russia</td>
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">1</td>
@@ -506,7 +532,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">0</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Spain</td>
 <td style="text-align: right;">29</td>
 <td style="text-align: right;">239</td>
@@ -515,7 +541,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">102</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">Sweden</td>
 <td style="text-align: right;">75</td>
 <td style="text-align: right;">701</td>
@@ -524,7 +550,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">13</td>
 <td style="text-align: right;">185</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">Switzerland</td>
 <td style="text-align: right;">59</td>
 <td style="text-align: right;">547</td>
@@ -533,7 +559,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">56</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;">United Kingdom</td>
 <td style="text-align: right;">168</td>
 <td style="text-align: right;">1484</td>
@@ -542,7 +568,7 @@ or legal rights to the provided data.
 <td style="text-align: right;">1</td>
 <td style="text-align: right;">56</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;">United States</td>
 <td style="text-align: right;">97</td>
 <td style="text-align: right;">115</td>
