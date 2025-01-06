@@ -13,7 +13,7 @@ firms.
 
 ### Coverage
 
-Currently our data covers 11,872 documents from 888 firms spanning 20
+Currently our data covers 11,875 documents from 888 firms spanning 20
 countries and data from the time period 2010 to 2023. Further
 information on the covered firm-years can be assessed from the table
 below.
@@ -171,7 +171,7 @@ below.
 <td style="text-align: right;">68</td>
 <td style="text-align: right;">68</td>
 <td style="text-align: right;">88</td>
-<td style="text-align: right;">166</td>
+<td style="text-align: right;">167</td>
 <td style="text-align: right;">180</td>
 <td style="text-align: right;">140</td>
 </tr>
@@ -480,8 +480,8 @@ or legal rights to the provided data.
 <tr>
 <td style="text-align: left;">Germany</td>
 <td style="text-align: right;">183</td>
-<td style="text-align: right;">1054</td>
-<td style="text-align: right;">796</td>
+<td style="text-align: right;">1056</td>
+<td style="text-align: right;">797</td>
 <td style="text-align: right;">41</td>
 <td style="text-align: right;">3</td>
 <td style="text-align: right;">72</td>
