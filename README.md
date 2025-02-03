@@ -462,9 +462,9 @@ or legal rights to the provided data.
 <tr>
 <td style="text-align: left;">Finland</td>
 <td style="text-align: right;">20</td>
-<td style="text-align: right;">176</td>
+<td style="text-align: right;">177</td>
 <td style="text-align: right;">86</td>
-<td style="text-align: right;">3</td>
+<td style="text-align: right;">2</td>
 <td style="text-align: right;">0</td>
 <td style="text-align: right;">67</td>
 </tr>
